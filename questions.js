@@ -2,9 +2,9 @@
 // Return the jsfiddle.net links to your work, one link per question
 // Answer at least five out of the seven questions (you can answer them all if you like)
 // Use test data when provided, however your functions should work with any similiarly structured data
-// Use any additional libraries you like
-// Error trapping is optional
-// If you have any questions about this test, please email jjohnson@marketshare.com
+
+// Use of jQuery is acceptable, however any other JavaScript libraries / frameworks should be avoided
+// If you have any questions about this test, please email jjohnson@marketshare.com or amatarazzo@marketshare.com
 
 // 1: Write a function that searches collection "projects" to find the object with the lowest "e" value and return that object's "i" value.
 // getLowestValue([{i:10, e: 100},{i:20, e: 200}]); // returns 10
